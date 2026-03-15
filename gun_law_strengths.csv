@@ -1,0 +1,51 @@
+﻿Series,State,Gun Law Strength,Gun Violence Rate per 100k
+State,California,91,7
+State,Illinois,87,12.4
+State,Massachusetts,86.5,3.8
+State,New York,85,4.4
+State,Connecticut,83,5.8
+State,Hawaii,81.5,3.7
+State,New Jersey,80.5,4
+State,Maryland,78.5,11.6
+State,Washington,76,11
+State,Delaware,71,11.8
+State,Colorado,69.5,15.3
+State,Oregon,67,14.2
+State,Rhode Island,65,4.6
+State,Minnesota,55,9.8
+State,Virginia,49.5,12.8
+State,New Mexico,43.5,26.6
+State,Vermont,43,10.6
+State,Pennsylvania,40,11.9
+State,Nevada,37.5,17.2
+State,Michigan,37,11.9
+State,Maine,33,11.9
+State,Wisconsin,28.5,12.1
+State,Florida,25.5,12.7
+State,North Carolina,24.5,16.3
+State,Nebraska,23,10.9
+State,Indiana,18.5,17.2
+State,West Virginia,18.5,15.3
+State,Alabama,16,23.7
+State,Tennessee,15,19.8
+State,Ohio,14.5,14.6
+State,Iowa,14,11.8
+State,Texas,14,13.9
+State,South Carolina,14,19.5
+State,Louisiana,12.5,22.9
+State,North Dakota,11.5,12.2
+State,Utah,11.5,13.3
+State,Kentucky,9.5,18.5
+State,Kansas,9.5,15.2
+State,Alaska,9,24.4
+State,Missouri,8,19.6
+State,Arizona,8,16.9
+State,Oklahoma,7.5,19.1
+State,New Hampshire,7.5,10.2
+State,Georgia,5.5,17.6
+State,Montana,5,20.2
+State,Wyoming,5,23.4
+State,Arkansas,4.5,20.6
+State,South Dakota,4,17.3
+State,Mississippi,4,28
+State,Idaho,3.5,15.9
